@@ -13,6 +13,7 @@ Mode 1:	Chỉnh giờ, ngày tháng
 Bấm giữ nút Mode trong vòng 1 giây, phần giây sẽ hiện con trỏ nhấp nháy, lúc này bấm nút Light đèn sẽ không sáng mà con trỏ sẽ lần lượt nhảy đến các vị trí phút, giây, ngày, tháng. Khi con trỏ ở vị trí nào thì nhấn nút Start/Stop để thay đổi giá trị ở khu vực đó. Nhấn nút Start/Stop thì giá trị hiện tại sẽ tăng 1 đơn vị và quay lại về 0 hoặc 1 khi đạt đến giá trị max.
 Ví dụ: chỉnh tháng thì mỗi lần bấm Start/Stop sẽ tăng lên 1 đơn vị cho đến khi giá trị bằng 12 nếu bấm tiếp sẽ quay về 1. Chỉnh giây nếu giá trị là 59 nếu bấm tiếp sẽ quay về 0.
 Nhấn phím Mode để lưu lại thông tin (ghi giá trị vào thanh ghi của DS1307).
+
 Mode 2:	Hẹn giờ
 Nhấn phím Mode trong vòng 2 giây, hàng trên của LCD sẽ hiển thị dòng chữ: SET ALARM. Hàng 2 sẽ hiển thị 00:00:00, con trỏ nhấp nháy ở số 00 cuối báo hiệu nếu nhấn nút Start/Stop sẽ thay đổi giá trị giây.
 Nhấn nút Light để chuyển con trỏ sang phút, giờ, Nếu con trỏ đang ở giờ, nhấn tiếp sẽ quay về giây.
